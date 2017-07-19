@@ -1,0 +1,5 @@
+name: YouTube
+description: YouTube Plugin Tutorial
+author: GameMotion
+version: 1.0
+main: com.gamemotion.main.Main
